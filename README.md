@@ -33,7 +33,7 @@ This project needs to be built using Django & React
 
 ## Contribution Guide 🤠
 - Pick up issues which interests you, mention your name in the comments section and start working on them
-- You have to strictly follow folder structure while working on issues [learn more](https://www.geeksforgeeks.org/flutter-file-structure/)
+- You have to strictly follow folder structure while working on issues
 - If two or more people solves same issue correctly then, person who created pull request before will get priority
 - When creating pull request keep title as "issue title", example="submit button working" and description with issueID as "fixes #issueID"
 - If you find any bug or have new feature's idea then, create a issue with supporting description & details. If issue found relevant then, maintainers will react to it and you can start working on it

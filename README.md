@@ -14,6 +14,8 @@ Hacktoberfest, in its 9th year, is a month-long celebration of open source softw
 
 The main purpose behind this project is to allow students and authorized club members of IIT Guwahati to easily access keys of rooms in New Sac. 
 
+ [Figma](https://www.figma.com/file/SUlNcruSdzGZuqu1LpBO3H/Sac-Management-System?node-id=0%3A1)
+
 ## Technologies 🛠️
 This project needs to be built using Django & React
 

@@ -47,5 +47,5 @@ Make sure you mention your name and roll number when asking for issue to be assi
 Best contributers from IIT Guwahati will be recruited for SWC. 
 
 ### Managed By -
-Arpit Sureka | a.sureka@iitg.ac.in
+Arpit Sureka | a.sureka@iitg.ac.in <br>
 Vignesh Deshpande | d.vighnesh@iitg.ac.in

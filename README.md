@@ -47,3 +47,5 @@ This project needs to be built using Django & React
 - Join SWC IIT Guwahati's [Discord Server](https://discord.gg/2QUrA8HgWx) for accessing great learning resources, connecting with awesome community
 
 ## Join us on social media
+
+[Discord](https://discord.com/invite/h2Q4MNBWe2) | [Facebook](https://www.facebook.com/swciitg/) | [LinkedIn](https://www.linkedin.com/company/student-s-web-committee-iitg/mycompany/)

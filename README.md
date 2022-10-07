@@ -41,3 +41,11 @@ This project needs to be built using Django & React
 ## Join us on social media
 
 [Discord](https://discord.com/invite/h2Q4MNBWe2) | [Facebook](https://www.facebook.com/swciitg/) | [LinkedIn](https://www.linkedin.com/company/student-s-web-committee-iitg/mycompany/)
+
+### For IIT Guwahati Students 
+Make sure you mention your name and roll number when asking for issue to be assigned.
+Best contributers from IIT Guwahati will be recruited for SWC. 
+
+### Managed By -
+Arpit Sureka | a.sureka@iitg.ac.in
+Vignesh Deshpande | d.vighnesh@iitg.ac.in

@@ -1,5 +1,7 @@
 # SAC Management System
 
+![ink2](https://user-images.githubusercontent.com/85542689/194701554-4dad66cd-7fde-496c-a0a3-fc59b498def2.png)
+
 <img width="2295" alt="logo" src="https://user-images.githubusercontent.com/81324145/193411234-94719960-a588-45a3-a812-41f85b517bed.jpg">
 
 Hacktoberfest, in its 9th year, is a month-long celebration of open source software run by DigitalOcean. It is a great opportunity for everyone, from seasoned developers to students and code newbies, from technical writers to UX designers, to contribute to open source communities and develop your skills, with the perks of winning limited edition items. You can do this in a variety of ways:

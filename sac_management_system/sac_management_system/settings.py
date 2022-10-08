@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rooms.apps.RoomsConfig",
-    "student.apps.StudentConfig",
     "users.apps.UsersConfig",
     "crispy_forms",
 ]

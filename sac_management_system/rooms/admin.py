@@ -1,11 +1,7 @@
 from django.contrib import admin
+from .models import Rooms, LogEntry, Student, FutureBookings
 
-# Register your models here.
-
-
-
-# Register your models here.
-from .models import Rooms
-from .models import LogEntry
 admin.site.register(Rooms)
 admin.site.register(LogEntry)
+admin.site.register(Student)
+admin.site.register(FutureBookings)

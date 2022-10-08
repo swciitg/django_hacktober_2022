@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>
+            
+        </title>
+    </head>
+    <body>
+        <h1 style="text-align: center;">Welcome to the website!!</h1> 
+        {% if user.is_authenticated  %}
+            <h1><a style="text-decoration: none;"href="{% url 'logout' %}">Logout</a></h1>
+        {% else %}
+            <h1 style="text-align: center;"><a style="text-decoration: none;"href="{% url 'login' %}">Login</a></h1>
+            <h1 style="text-align: center;"><a style="text-decoration: none; text-align: center;"href="{% url 'register' %}">Register</a></h1>
+        {% endif %}
+
+               
+    </body>
+</html>

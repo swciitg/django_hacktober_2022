@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+.row {
+  height: 53.88px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background: #232934;
+  border-radius: 8px;
+}
+
+.row > p {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.1px;
+}

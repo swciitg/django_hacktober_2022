@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+.home {
+  width: 100%;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: #1e1e1e;
+  color: white;
+}
+
+.collection__row > h2 {
+  padding-left: 10px;
+  margin-top: 20px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0.5px;
+  color: #bdc7dc;
+}

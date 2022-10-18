@@ -17,13 +17,11 @@ The main purpose behind this project is to allow students and authorized club me
 
 [Figma](https://www.figma.com/file/SUlNcruSdzGZuqu1LpBO3H/Sac-Management-System?node-id=0%3A1) - Using comments feature on figma feature share your thoughts on the project and what featues you would want in this project. You can also share link of your designs if you think that would be better.
 
-## Technologies 🛠️
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Technologies 
 
 This project needs to be built using Django & React
 
-<!-- ## Project details 😎
+<!-- ## Project details 
 - Creating search post for cab sharing
 - Searching in added posts with custom filters
 - Chat feature between users
@@ -33,11 +31,11 @@ This project needs to be built using Django & React
 
 - Fork this repository, Clone the forked repository on your machine and start working on issues
 
-## Contribution Guide 🤠
+## Contribution Guide 
 
 - Before contributing be sure to check out the CONTRIBUTION(CONTRIBUTION.md) guidelines.
 
-## Help & Discussions 🙌
+## Help & Discussions 
 
 - Go to discussions section of this repository to start new discussion or look at previous discussions.
 - Join SWC IIT Guwahati's [Discord Server](https://discord.gg/2QUrA8HgWx) for accessing great learning resources, connecting with awesome community

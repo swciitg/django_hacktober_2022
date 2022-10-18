@@ -19,6 +19,8 @@ The main purpose behind this project is to allow students and authorized club me
 
 ## Technologies 🛠️
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 This project needs to be built using Django & React
 
 <!-- ## Project details 😎
@@ -33,7 +35,7 @@ This project needs to be built using Django & React
 
 ## Contribution Guide 🤠
 
-- Please check [CONTRIBUTION.md](CONTRIBUTION.md) for contributions.
+- Before contributing be sure to check out the CONTRIBUTION(CONTRIBUTION.md) guidelines.
 
 ## Help & Discussions 🙌
 

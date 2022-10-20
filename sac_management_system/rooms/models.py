@@ -1,5 +1,5 @@
 from django.db import models
-
+from django.core.validators import RegexValidator
 
 # from .models import Student
 
@@ -28,7 +28,9 @@ class Rooms(models.Model):
 class Student(models.Model):
 
     Full_Name = models.TextField()
-    Email = models.EmailField(unique=True,max_length = 254)
+    Email = models.EmailField(unique=True, max_length=254)
+    phoneNumberRegex = RegexValidator(regex=r"^(\+91[\-\s]?)?[0]?(91)?[789]\d{9}$")
+    phoneNumber = models.CharField(validators=[phoneNumberRegex], max_length=13, unique=True)
     Roll_Number = models.CharField(max_length=9)
     Student_No = models.IntegerField(primary_key=True)
     Temp_Permissions = models.IntegerField()

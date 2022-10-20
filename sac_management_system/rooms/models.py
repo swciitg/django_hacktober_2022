@@ -43,7 +43,7 @@ class Student(models.Model):
 class LogEntry(models.Model):
 
     Room_No = models.ForeignKey(Rooms, on_delete = models.CASCADE)
-    Key_Taken = models.DateTimeField(null=True)
+    Key_Taken = models.DateTimeField(auto_now_add=True, blank=False)
     Key_Given = models.DateTimeField()
     Student_ID = models.ForeignKey(Student, on_delete = models.CASCADE)
     stage = models.TextField(choices=Stage.choices, default = Stage.RETURNED)
